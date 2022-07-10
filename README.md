@@ -5,11 +5,7 @@ I’m working as a 3D Designer since 2005, but I started learning Unity3D and C#
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermeluciojardim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
   
 ### My techs
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 />
-  <img alt="Unity" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" width=40 height=40 />
-  <img alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width=40 height=40 />
-  <img alt="Grasshopper" src="https://icon-library.com/images/grasshopper-icon/grasshopper-icon-17.jpg" width=40 height=40 />
-  <img alt="Rhino3D" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/rhinoceros_macos_bigsur_icon_189781.png" width=40 height=40 />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img alt="Unity" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" width=40 height=40 /> <img alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width=40 height=40 /> <img alt="Grasshopper" src="https://icon-library.com/images/grasshopper-icon/grasshopper-icon-17.jpg" width=40 height=40 /> <img alt="Rhino3D" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/rhinoceros_macos_bigsur_icon_189781.png" width=40 height=40 />
   
   
 ### Contact me!
