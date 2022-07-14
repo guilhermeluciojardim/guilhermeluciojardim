@@ -1,5 +1,5 @@
 # Hello devs, name is Guilherme and Game develop!
-I’m working as a 3D Designer since 2005. I started learning Unity3D and C# and with my Bachelor in Computer Science and my passion for games, I'm willing to help people whenever I can, so fell free to ask me anything!
+I’m working as a 3D Designer and a gameDev in Unity3D and C#. With my Bachelor in Computer Science and my passion for games, I'm willing to help people whenever I can, so fell free to ask me anything!
   
 ### Profile
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermeluciojardim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
