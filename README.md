@@ -1,5 +1,5 @@
-# Hello devs, name is Guilherme Jardim and I'm a Game dev!
-I work as a 3D Designer and a gameDev in Unity3D and C#. With my Bachelor in Computer Science and my passion for games, I'm willing to help people whenever I can, so fell free to ask me anything!
+# Hello devs, name is Guilherme Jardim
+I work as a 3D Designer and I love gameDev in Unity3D and C#. With my Bachelor in Computer Science and my passion for games, I'm willing to help people whenever I can, so fell free to ask me anything!
   
 ### Profile
   
