@@ -2,7 +2,6 @@
 I work as a 3D Designer and a gameDev in Unity3D and C#. With my Bachelor in Computer Science and my passion for games, I'm willing to help people whenever I can, so fell free to ask me anything!
   
 ### Profile
-  // <img src="https://github-readme-stats.vercel.app/api?username=guilhermeluciojardim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
   
 <div align="center">
   <a href="https://github.com/guilhermeluciojardim">
