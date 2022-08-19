@@ -1,5 +1,5 @@
 # Hello devs, name is Guilherme Jardim
-I'm a gameDev in Unity3D - C#. I combine my 3D knowledge, with my Bachelor in Computer Science and my passion for games to creat games and I'm willing to help people whenever I can, so fell free to ask me anything!
+I'm a gameDev in Unity3D - C#. I combine my 3D knowledge, with my Bachelor in Computer Science and my passion for games to create games and I'm willing to help people whenever I can, so fell free to ask me anything!
    
 ### My techs
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img alt="Unity" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" width=40 height=40 /> <img alt="C" src="https://user-images.githubusercontent.com/74430503/178512870-f58e1b32-b738-4949-a566-be513f28d439.png" width=40 height=40 /> <img alt="Grasshopper" src="https://icon-library.com/images/grasshopper-icon/grasshopper-icon-17.jpg" width=40 height=40 /> <img alt="Rhino3D" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/rhinoceros_macos_bigsur_icon_189781.png" width=40 height=40 />
