@@ -2,6 +2,7 @@
 I'm a Software Engineer and gameDev in Unity3D / Rhino 3D with C# and Javascript. I combine my 3D knowledge, with my Bachelor in Computer Science and my passion for games and technologie to create games and apps. I'm willing to help people whenever I can, so fell free to ask me anything!
    
   ### My techs
+ <div style="display: flex; flex-direction: row; align-items: center;">
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 />
   <img alt="Unity" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" width=40 height=40 />
   <img alt="C" src="https://user-images.githubusercontent.com/74430503/178512870-f58e1b32-b738-4949-a566-be513f28d439.png" width=40 height=40 />
@@ -12,6 +13,7 @@ I'm a Software Engineer and gameDev in Unity3D / Rhino 3D with C# and Javascript
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 />
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40 />
   <img alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width=40 height=40 />
+</div>
 
   
 ### Contact me!
