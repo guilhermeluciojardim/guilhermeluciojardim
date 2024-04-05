@@ -1,5 +1,5 @@
 # Hello devs, name is Guilherme Jardim
-I'm a Software Engineer and gameDev in Unity3D / Rhino 3D with C# and Javascript. I combine my 3D knowledge, with my Bachelor in Computer Science and my passion for games and technologie to create games and apps. I'm willing to help people whenever I can, so fell free to ask me anything!
+I'm a Software Engineer with gameDev in Unity3D / C#, Front-end JS, TS, React and 3D Expert master at Rhino 3D. I combine my 3D knowledge, with my Bachelor in Computer Science and my passion for games and technologie to create games and apps. I'm willing to help people whenever I can, so fell free to ask me anything!
    
   ### My techs
  <div style="display: flex; flex-direction: row; align-items: center;">
